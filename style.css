@@ -1,0 +1,58 @@
+h2 {
+font-family: OptimusPrinceps;
+background-color: #;
+color: #478e00;
+text-decoration: none;
+word-spacing: 0em;
+text-align: center;
+letter-spacing: -1px;
+line-height: 1em;
+font-size: 4em;
+}
+
+h3 {
+	font-family: OptimusPrinceps;
+background-color: #;
+color: #478e00;
+text-decoration: none;
+word-spacing: 0.6em;
+text-align: center;
+letter-spacing: 1px;
+line-height: 1.2em;
+font-size: 2em;
+}
+
+p {
+font-family: Zapfino;
+background-color: green;
+color: #7f8400;
+text-decoration: none;
+word-spacing: 0.6em;
+text-align: left;
+letter-spacing: 0;
+line-height: 2.5em;
+font-size: 1em;
+padding-left: 400px;
+padding-right: 120px;
+}
+
+
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+main,
+nav,
+section,
+summary {
+    display: block;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
